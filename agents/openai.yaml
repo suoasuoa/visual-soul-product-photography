@@ -1,0 +1,7 @@
+interface:
+  display_name: "Visual Soul Product Photography"
+  short_description: "Turn product and style references into candid lifestyle-photo candidate pools"
+  default_prompt: "Use $visual-soul-product-photography to create a candid lifestyle-photo candidate pool from this product image and visual reference board."
+
+policy:
+  allow_implicit_invocation: true
